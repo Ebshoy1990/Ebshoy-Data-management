@@ -44,5 +44,5 @@ merge 1:1 indid hhid using elmpsfirstmerge,nogenerate // I put the nogeneratre o
 
 save elmpsfullmerge,replace
 
-
+//but merging same data with same data--thats fine, often need to do that, but here we need to merge with some other data, say world bank, egyptian census, etc
 
